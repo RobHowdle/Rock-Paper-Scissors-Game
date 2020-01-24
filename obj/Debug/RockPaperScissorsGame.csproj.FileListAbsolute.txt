@@ -1,0 +1,11 @@
+C:\Users\rober\source\repos\RockPaperScissorsGame\bin\Debug\RockPaperScissorsGame.exe.config
+C:\Users\rober\source\repos\RockPaperScissorsGame\bin\Debug\RockPaperScissorsGame.exe
+C:\Users\rober\source\repos\RockPaperScissorsGame\bin\Debug\RockPaperScissorsGame.pdb
+C:\Users\rober\source\repos\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.exe
+C:\Users\rober\source\repos\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.pdb
+C:\Users\rober\source\repos\RockPaperScissorsGame\bin\Debug\RockPaperScissorsGame.exe.manifest
+C:\Users\rober\source\repos\RockPaperScissorsGame\bin\Debug\RockPaperScissorsGame.application
+C:\Users\rober\source\repos\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.csprojAssemblyReference.cache
+C:\Users\rober\source\repos\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.exe.manifest
+C:\Users\rober\source\repos\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.application
